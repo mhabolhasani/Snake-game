@@ -1,2 +1,2 @@
-A SIMPLE SNAKE GAME ! 
+A SIMPLE SNAKE GAME !
 run main.py !
